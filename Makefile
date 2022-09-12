@@ -3,7 +3,7 @@
 
 
 NAME = texlive-docker
-VERSION = latest
+VERSION = v1.0.1
 
 BUILDER = podman
 
